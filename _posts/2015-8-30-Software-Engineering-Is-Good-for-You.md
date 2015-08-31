@@ -1,4 +1,7 @@
---- layout: post title: Software Engineering Is Good for You. ---
+--- 
+layout: post 
+title: Software Engineering Is Good for You. 
+---
 
 Software Engineering is – in a few important ways – unlike any other
 class I have taken here at the University. It carries a writing flag
