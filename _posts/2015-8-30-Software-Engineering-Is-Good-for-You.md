@@ -9,9 +9,7 @@ and technologies to make us more employable outside of school. Professor Downing
 way of asking for participation from every student in the class… so pay attention! You **will** be called 
 on!
 
-![_config.yml]()
-
-## The writing bit
+#### The writing bit
 
 I am happy that this blog will force me to improve my writing style via weekly feedback from other 
 students. Writing is an effective form of communication and is essential even as a developer. Whether 
@@ -19,7 +17,7 @@ you’re writing emails, cover letters, or a research thesis, your writing is a 
 documented code is essential to a team. Nobody wants to figure out how your code works or doesn’t 
 work the hard way (after weeks of trying)
 
-## The software engineering bit
+#### The software engineering bit
 
 As developers, we have committed to being life-long learners. Technologies may come and go, but it is a 
 valuable skill to keep up with the current best practices. It is equally important to ask why practices may 
