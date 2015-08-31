@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CD373 Fall 2015: Dustin Stone</title>
+    <description>Pursuing B.S. in Computer Science @ University of Texas at Austin</description>
+    <link>http://dustinstone.github.io</link>
+    <atom:link href="http://dustinstone.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Software Engineering Is Good for You.</title>
+        <description>&lt;p&gt;Software Engineering is – in a few important ways – unlike any other class I have taken here at the
+University. It carries a writing flag as an upper division CS course and promises to equip us with
+tools and technologies to make us more employable outside of school. Professor Downing also has a
+unique  way of asking for participation from every student in the class… so pay attention! You
+&lt;strong&gt;will&lt;/strong&gt; be called  on!&lt;/p&gt;
+
+&lt;h4&gt;The writing bit&lt;/h4&gt;
+
+&lt;p&gt;I am happy that this blog will force me to improve my writing style via weekly feedback from other
+students. Writing is an effective form of communication and is essential even as a developer.
+Whether you’re writing emails, cover letters, or a research thesis, your writing is a reflection of
+you. Also, well- documented code is essential to a team. Nobody wants to figure out how your code
+works or doesn’t  work the hard way (after weeks of trying)&lt;/p&gt;
+
+&lt;h4&gt;The software engineering bit&lt;/h4&gt;
+
+&lt;p&gt;As developers, we have committed to being life-long learners. Technologies may come and go, but it
+is a  valuable skill to keep up with the current best practices. It is equally important to ask why
+practices may  be preferable over another in class, I have already benefitted from it. Software
+Engineering will be challenging  but challenges are valuable learning experiences. It already
+appears as though Professor Downing will encourage  good habits like focusing in class, documenting
+effectively, reflecting weekly, and diving into new technologies.  I’m looking forward to it!&lt;/p&gt;
+
+&lt;h4&gt;Tip o&amp;#39; the week&lt;/h4&gt;
+
+&lt;p&gt;This article &lt;a href=&quot;https://hbr.org/2015/07/what-you-miss-when-you-take-notes-on-your-laptop&quot;&gt;What You Miss When You Take Notes on Your Laptop&lt;/a&gt; 
+from Harvard Business Review was passed along to me this week so I thought I&amp;#39;d do the same. You may 
+benefit from this in class. If nothing else, it&amp;#39;s an interesting read.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://dustinstone.github.io/Software-Engineering-Is-Good-for-You/</link>
+        <guid isPermaLink="true">http://dustinstone.github.io/Software-Engineering-Is-Good-for-You/</guid>
+      </item>
+    
+  </channel>
+</rss>
