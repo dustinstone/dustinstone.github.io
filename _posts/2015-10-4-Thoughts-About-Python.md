@@ -13,12 +13,19 @@ On Wednesday and Friday, Professor Downing showed us the utility of iterables, g
 I'm a huge advocate for having hobbies. I believe that hobbies relieve stress, and let your mind relax between school and work. They can also bring ideas to your CS work when you least expect it, like interdisciplinary stuff. If you have one, or need one, I recommend searching YouTube for videos about it. I'm also a very big fan of YouTube, and a very curious person in general, so here's a list of my favorite educational and hobbyist channels:
 
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)- Interviews with various CS professors about various computer things
+
 [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Interviews with math professors about famous math problems
+
 [SmarterEveryDay](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA) - This is an engineer who answers questions about science
+
 [I Like To Make Stuff](https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw) - This guy makes stuff using Arduinos, CNC machines, and 3D printers, wood, metal, and more
+
 [Jamie Oliver’s Food Tube](https://www.youtube.com/channel/UCpSgg_ECBj25s9moCDfSTsA) - Learn to cook yummy food!
+
 [Jamie Oliver’s Drinks Tube](https://www.youtube.com/channel/UCtTgeFbRSuFUq9raLxJLi4g) - Learn to make cocktails (If you’re over 21…) and other non-alcoholic fruity and coffee drinks
+
 [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - Keep up with tech news...
+
 [VSauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - These are just awesome videos, you never know what you’ll learn. I think I’ve seen them all.
 
 
